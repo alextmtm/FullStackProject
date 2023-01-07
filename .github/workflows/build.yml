@@ -9,9 +9,9 @@ on:
 env:
   POSTGRESQL_VERSION: 13.1
   POSTGRESQL_DB: amigoscode
-  POSTGRESQL_USER: postgres
-  POSTGRESQL_PASSWORD: password
-  JAVA_VERSION: 1.15
+  POSTGRESQL_USER: alexdbmtl
+  POSTGRESQL_PASSWORD: Qwerty11
+  JAVA_VERSION: 1.19
 
 jobs:
   build:
