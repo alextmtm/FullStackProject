@@ -229,7 +229,7 @@ function App()  {
                           <Breadcrumb.Item>Bill Change</Breadcrumb.Item>
                         </Breadcrumb>
                         <div style={{ padding: 24, minHeight: 360, background: colorBgContainer }}>
-                          Alex is Java programmer.{renderSpin()}
+                          Alex is Java programmer.{renderSpin()} Version: 0.01
                           {renderStudent()}
                         </div>
                       </Content>
